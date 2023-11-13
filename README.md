@@ -1,5 +1,8 @@
-## Next.js App Router Course - Starter
+# Next.js 14 full stack financial dashboard app using all the main features of Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Here is live [preview](https://financial-dashboard-full-stack-app-nextjs-14-cb7ll3dhd.vercel.app/login?callbackUrl=https://financial-dashboard-full-stack-app-nextjs-14-cb7ll3dhd.vercel.app/dashboard)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## How to run the project
+
+1. `yarn install`
+2. `yarn run dev`
